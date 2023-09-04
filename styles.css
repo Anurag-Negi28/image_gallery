@@ -1,4 +1,9 @@
-header{
+body{
+	background-color:bisque;
+}
+h1,h2{
+	color:dimgrey;
+}header{
 	text-align:center;
 }
 .container{
